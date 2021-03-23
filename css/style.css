@@ -255,6 +255,11 @@ body {
   background-position: center center !important; }
 
 .bg-show__bh {
+  background-image: linear-gradient(to top left, rgba(255, 255, 255, 0.87) 10%, white 45%), url(../img/bh.png) !important;
+  background-size: cover !important;
+  background-position: center center !important; }
+
+.bg-show__wynt {
   background-image: linear-gradient(to top left, rgba(255, 255, 255, 0.87) 10%, white 45%), url(../img/wynaut.png) !important;
   background-size: cover !important;
   background-position: center center !important; }
