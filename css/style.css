@@ -229,7 +229,7 @@ body {
   box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.1); }
   @media (max-width: 75em) {
     .main-ui {
-      height: 20.5rem; } }
+      height: 21rem; } }
   @media (max-width: 56.25em) {
     .main-ui {
       margin: 4rem 4rem; } }
@@ -1196,7 +1196,7 @@ body {
     box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.1); }
     @media (max-width: 75em) {
       .row-main .main__bar {
-        height: 20.5rem; } }
+        height: 21rem; } }
     @media (max-width: 56.25em) {
       .row-main .main__bar {
         margin: 4rem 4rem; } }
