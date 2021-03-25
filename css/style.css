@@ -164,6 +164,9 @@ body {
 .menu__margin-bottom {
   margin-top: 8rem !important; }
 
+.width-45 {
+  width: 45% !important; }
+
 .float-right {
   float: right;
   margin-right: 2rem; }
@@ -229,7 +232,7 @@ body {
   box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.1); }
   @media (max-width: 75em) {
     .main-ui {
-      height: 21rem; } }
+      height: 20.5rem; } }
   @media (max-width: 56.25em) {
     .main-ui {
       margin: 4rem 4rem; } }
@@ -287,9 +290,6 @@ body {
     background-image: none !important;
     background-color: white; }
   .bg-show__bh {
-    background-image: none !important;
-    background-color: white; }
-  .bg-show__wynt {
     background-image: none !important;
     background-color: white; }
   .bg-show__sht {
@@ -441,7 +441,7 @@ body {
       color: #2da9fc; }
       .list-button .style .request:hover {
         transition: 0.3s all;
-        background-color: #2da9fc;
+        background-color: black;
         color: white;
         border-radius: 0.5rem;
         padding: 1.5rem 4.5rem;
@@ -568,6 +568,7 @@ body {
   cursor: pointer;
   margin-right: 2.5rem;
   text-align: left;
+  width: min-content;
   margin: 3rem; }
   @media (max-width: 37.5em) {
     .navbar__phone-btn {
@@ -1126,7 +1127,8 @@ body {
           transition: .3s all;
           color: white; }
     .navbar__nav-1 .active {
-      background-color: #2ca9fc63; }
+      background-color: rgba(44, 169, 252, 0.388);
+      background-color: rgba(44, 169, 252, 0.388); }
       .navbar__nav-1 .active:hover {
         transition: .3s all;
         background-color: #2ca9fc; }
@@ -1187,7 +1189,7 @@ body {
 
 .row-main .main {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   padding: 6rem 0;
   padding-top: 2rem; }
   @media (max-width: 56.25em) {
@@ -1204,7 +1206,7 @@ body {
     box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.1); }
     @media (max-width: 75em) {
       .row-main .main__bar {
-        height: 21rem; } }
+        height: 20.5rem; } }
     @media (max-width: 56.25em) {
       .row-main .main__bar {
         margin: 4rem 4rem; } }
