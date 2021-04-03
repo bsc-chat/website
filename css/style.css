@@ -400,6 +400,9 @@ body {
 .col-cl-hze {
   background-color: #a6a6a6 !important; }
 
+.brdr-7rem {
+  border-radius: 7rem !important; }
+
 .bg-cl-acs {
   background-color: black !important; }
 
@@ -413,7 +416,10 @@ body {
   background-color: #ffffff !important; }
 
 .bg-cl-kth {
-  background-color: white !important; }
+  background-color: black !important; }
+
+.bg-cl-knt {
+  background-color: #1b4b7c !important; }
 
 .high-range {
   font-size: 1rem !important; }
