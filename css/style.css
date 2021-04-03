@@ -671,6 +671,21 @@ body {
   background-size: cover !important;
   background-position: center center !important; }
 
+.bg-show__kth {
+  background-image: linear-gradient(to top left, rgba(255, 255, 255, 0.87) 10%, white 45%), url(../img/kth.jpg) !important;
+  background-size: cover !important;
+  background-position: center center !important; }
+
+.bg-show__rfm {
+  background-image: linear-gradient(to top left, rgba(255, 255, 255, 0.87) 10%, white 45%), url(../img/rfm.jpg) !important;
+  background-size: cover !important;
+  background-position: center center !important; }
+
+.bg-show__knt {
+  background-image: linear-gradient(to top left, rgba(255, 255, 255, 0.87) 10%, white 45%), url(../img/knt.jpg) !important;
+  background-size: cover !important;
+  background-position: center center !important; }
+
 @media (max-width: 56.25em) {
   .bg-show__pcs {
     background-image: none !important;
