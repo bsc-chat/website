@@ -868,6 +868,9 @@ body {
 .card-br-rd {
   border-radius: 0.5rem !important; }
 
+.bld {
+  font-weight: 800 !important;
+}
 .desktop-v {
   display: flex !important; }
   @media (max-width: 56.25em) {
