@@ -500,6 +500,9 @@ body {
 .brdr-7rem {
   border-radius: 7rem !important; }
 
+.bld {
+  font-weight: 800 !important; }
+
 .bg-cl-acs {
   background-color: black !important; }
 
