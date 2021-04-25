@@ -518,6 +518,9 @@ body {
 .bg-cl-knt {
   background-color: #1b4b7c !important; }
 
+.bg-cl-ars {
+  background-color: #2e333c !important; }
+
 .high-range {
   font-size: 1rem !important; }
   @media (max-width: 56.25em) {
@@ -868,9 +871,6 @@ body {
 .card-br-rd {
   border-radius: 0.5rem !important; }
 
-.bld {
-  font-weight: 800 !important;
-}
 .desktop-v {
   display: flex !important; }
   @media (max-width: 56.25em) {
