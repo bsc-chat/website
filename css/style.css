@@ -524,6 +524,12 @@ body {
 .bg-cl-ars {
   background-color: #2e333c !important; }
 
+.bg-cl-blga {
+  background-color: #b594b2 !important; }
+
+.bg-cl-brbn {
+  background-color: #00243b !important; }
+
 .high-range {
   font-size: 1rem !important; }
   @media (max-width: 56.25em) {
@@ -1863,7 +1869,7 @@ body {
             border-radius: 6rem;
             height: 10rem;
             display: grid;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); }
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); }
           .main__header-right .top-section .main-section-v-desktop .tab .main-col .col-box .text-wrapper h1 {
             padding: 0; }
         .main__header-right .top-section .main-section-v-desktop .tab .main-col .col-bottom-btn {
